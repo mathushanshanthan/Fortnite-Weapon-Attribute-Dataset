@@ -19,4 +19,14 @@ Type: What type of weapon is in question
   
 In total there are 14 attribute columns with 43 weapon rows, leaving a total of 473 entries into the Dataset  
   
+### Objective:
+My objective was to clean and prepare the Data due to the raw data being very unorganised.  
+I then moved on to finding insights about the data and elaborate them in the form of visualisations to demonstrate my key findings.  
+  
+I have visualised:  
+- Distribution of Damage values, showing how frequently different damage values  
+- Distribution of weapon rarities  
+- Relationship between 'Damage' and 'Fire Rate'  
+- A Scatterplot matrix to identify patterns, correlations, and potential insights in the data  
+  
 By: Mathushan Shanthan
